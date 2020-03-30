@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<group>-->
+
+    <item
+        android:title="movie"
+        android:id="@+id/movie"
+        />
+
+    <item
+        android:title="Tv Series"
+        android:id="@+id/tvSeries"
+        />
+
+    <item
+        android:title="Discover"
+        android:id="@+id/discover"
+        />
+
+    <item
+        android:title="People"
+        android:id="@+id/people"
+        />
+
+<!--</group>-->
+
+<!--    <group>-->
+<!--        <item-->
+<!--            android:title="Wishlist Movie"-->
+<!--            android:id="@+id/wishlistMovie"-->
+<!--            />-->
+
+<!--        <item-->
+<!--            android:title="Wishlist Tv Series"-->
+<!--            android:id="@+id/wishlistTv"-->
+<!--            />-->
+
+<!--    </group>-->
+
+</menu>
